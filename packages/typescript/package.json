@@ -1,0 +1,19 @@
+{
+  "name": "@ausjukwa/eslint-config-ts",
+  "version": "0.0.1",
+  "description": "个人eslint typescript配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.5.0"
+  },
+  "dependencies": {
+    "@ausjukwa/eslint-config-basic": "workspace:^0.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.8.1",
+    "@typescript-eslint/parser": "^5.8.1"
+  }
+}
