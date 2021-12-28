@@ -2,11 +2,14 @@
   "name": "@ausjukwa/eslint-config-react",
   "version": "0.0.1",
   "description": "个人eslint react配置",
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "AuSjukwa <981145451@qq.com> https://github.com/AuSjukwa",
   "license": "ISC",
   "dependencies": {
     "@ausjukwa/eslint-config-ts": "workspace:^0.0.1",

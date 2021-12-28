@@ -2,11 +2,14 @@
   "name": "@ausjukwa/eslint-config-basic",
   "version": "0.0.1",
   "description": "个人eslint基础配置",
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "AuSjukwa <981145451@qq.com> https://github.com/AuSjukwa",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.5.0"
