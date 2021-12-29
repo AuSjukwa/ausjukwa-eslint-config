@@ -1,6 +1,6 @@
 {
   "name": "@ausjukwa/eslint-config-ts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "个人eslint typescript配置",
   "files": [
     "index.js"
@@ -22,7 +22,7 @@
     "eslint": "^8.5.0"
   },
   "dependencies": {
-    "@ausjukwa/eslint-config-basic": "workspace:^0.0.1",
+    "@ausjukwa/eslint-config-basic": "workspace:^1.0.0",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1"
   }

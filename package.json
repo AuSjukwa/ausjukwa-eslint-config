@@ -11,7 +11,7 @@
   "author": "AuSjukwa <981145451@qq.com> https://github.com/AuSjukwa",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.5.0",
-    "lerna": "^4.0.0"
+    "@changesets/cli": "^2.19.0",
+    "eslint": "^8.5.0"
   }
 }

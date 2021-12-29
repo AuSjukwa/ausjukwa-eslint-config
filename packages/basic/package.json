@@ -1,6 +1,6 @@
 {
   "name": "@ausjukwa/eslint-config-basic",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "个人eslint基础配置",
   "files": [
     "index.js"
