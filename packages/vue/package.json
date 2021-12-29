@@ -1,6 +1,6 @@
 {
   "name": "@ausjukwa/eslint-config-vue",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "个人eslint vue配置",
   "files": [
     "index.js"
@@ -22,7 +22,7 @@
     "eslint": "^8.5.0"
   },
   "dependencies": {
-    "@ausjukwa/eslint-config-ts": "workspace:^0.0.1",
+    "@ausjukwa/eslint-config-ts": "workspace:^1.0.0",
     "eslint-plugin-vue": "^8.2.0"
   }
 }

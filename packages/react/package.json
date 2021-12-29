@@ -1,6 +1,6 @@
 {
   "name": "@ausjukwa/eslint-config-react",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "个人eslint react配置",
   "files": [
     "index.js"
@@ -19,7 +19,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@ausjukwa/eslint-config-ts": "workspace:^0.0.1",
+    "@ausjukwa/eslint-config-ts": "workspace:^1.0.0",
     "eslint-plugin-react": "^7.28.0"
   },
   "devDependencies": {
